@@ -1,0 +1,10 @@
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.Properties.Resources.resources
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.wygaszacz.resources
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.csproj.GenerateResource.cache
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\bin\Debug\Wygaszacz.exe.config
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\bin\Debug\Wygaszacz.exe
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\bin\Debug\Wygaszacz.pdb
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.exe
+C:\Users\MP\source\repos\Wygaszacz\Wygaszacz\obj\Debug\Wygaszacz.pdb
